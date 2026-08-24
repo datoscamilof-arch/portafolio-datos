@@ -34,7 +34,7 @@ Este proyecto replica la metodología de análisis de datos que utilicé durante
 ```
 
 ## Estructura del Dashboard
-##Vinculo del Dashboard
+## Vinculo del Dashboard
 
 ### Página 1: Resumen Ejecutivo (Monitoreo General)
 
