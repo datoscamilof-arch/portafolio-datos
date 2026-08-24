@@ -1,0 +1,451 @@
+ID_Incidente,Fecha,Area,Tipo_Incidente,Severidad,Dias_Incapacidad,Causa_Raiz
+INC-0039,2023-01-02,Comercial/Campo,Enfermedad Laboral,Grave,23,Peligro locativo / Desorden
+INC-0137,2023-01-06,Operaciones/Planta,Enfermedad Laboral,Leve,2,Fatiga / Factor humano
+INC-0429,2023-01-08,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0268,2023-01-09,Comercial/Campo,Accidente de Trabajo,Moderado,11,Condición insegura (Herramienta/Equipo)
+INC-0143,2023-01-10,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0144,2023-01-13,Logística/Bodega,Accidente de Trabajo,Leve,1,Peligro locativo / Desorden
+INC-0015,2023-01-15,Operaciones/Planta,Accidente de Trabajo,Moderado,11,Condición insegura (Herramienta/Equipo)
+INC-0400,2023-01-19,Mantenimiento,Accidente de Trabajo,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0281,2023-01-21,Logística/Bodega,Accidente de Trabajo,Grave,37,Fatiga / Factor humano
+INC-0270,2023-01-22,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0046,2023-01-27,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0197,2023-01-29,Operaciones/Planta,Accidente de Trabajo,Moderado,10,Fatiga / Factor humano
+INC-0075,2023-02-04,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0231,2023-02-07,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0381,2023-02-08,Logística/Bodega,Incapacidad Común,Moderado,8,Acto inseguro (No uso de EPP)
+INC-0090,2023-02-08,Mantenimiento,Accidente de Trabajo,Leve,2,Acto inseguro (No uso de EPP)
+INC-0443,2023-02-10,Logística/Bodega,Accidente de Trabajo,Moderado,9,Falta de procedimiento/Capacitación
+INC-0099,2023-02-10,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0192,2023-02-10,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0352,2023-02-12,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0312,2023-02-12,Logística/Bodega,Incapacidad Común,Moderado,14,Acto inseguro (No uso de EPP)
+INC-0159,2023-02-16,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0095,2023-02-16,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0407,2023-02-18,Mantenimiento,Incapacidad Común,Leve,2,Fatiga / Factor humano
+INC-0323,2023-02-19,Logística/Bodega,Incapacidad Común,Moderado,6,Acto inseguro (No uso de EPP)
+INC-0225,2023-02-23,Comercial/Campo,Incapacidad Común,Leve,1,Falta de procedimiento/Capacitación
+INC-0426,2023-02-27,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0221,2023-03-02,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0202,2023-03-02,Logística/Bodega,Accidente de Trabajo,Moderado,8,Falta de procedimiento/Capacitación
+INC-0104,2023-03-04,Operaciones/Planta,Incapacidad Común,Moderado,5,Condición insegura (Herramienta/Equipo)
+INC-0333,2023-03-08,Mantenimiento,Accidente de Trabajo,Leve,2,Falta de procedimiento/Capacitación
+INC-0131,2023-03-08,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0161,2023-03-10,Logística/Bodega,Enfermedad Laboral,Grave,26,Acto inseguro (No uso de EPP)
+INC-0201,2023-03-14,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0331,2023-03-14,Operaciones/Planta,Accidente de Trabajo,Moderado,4,Condición insegura (Herramienta/Equipo)
+INC-0113,2023-03-16,Operaciones/Planta,Accidente de Trabajo,Grave,48,Fatiga / Factor humano
+INC-0082,2023-03-17,Operaciones/Planta,Enfermedad Laboral,Leve,3,Fatiga / Factor humano
+INC-0425,2023-03-20,Administración,Incapacidad Común,Grave,54,Falta de procedimiento/Capacitación
+INC-0240,2023-03-23,Logística/Bodega,Incapacidad Común,Leve,2,Peligro locativo / Desorden
+INC-0298,2023-03-27,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0272,2023-03-28,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0370,2023-03-28,Logística/Bodega,Accidente de Trabajo,Moderado,4,Condición insegura (Herramienta/Equipo)
+INC-0386,2023-03-29,Operaciones/Planta,Accidente de Trabajo,Leve,3,Peligro locativo / Desorden
+INC-0359,2023-04-02,Mantenimiento,Accidente de Trabajo,Moderado,10,Peligro locativo / Desorden
+INC-0109,2023-04-05,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0160,2023-04-05,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0182,2023-04-06,Comercial/Campo,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0049,2023-04-09,Logística/Bodega,Enfermedad Laboral,Leve,1,Peligro locativo / Desorden
+INC-0262,2023-04-12,Comercial/Campo,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0041,2023-04-14,Mantenimiento,Accidente de Trabajo,Moderado,5,Condición insegura (Herramienta/Equipo)
+INC-0105,2023-04-15,Mantenimiento,Accidente de Trabajo,Moderado,8,Fatiga / Factor humano
+INC-0267,2023-04-16,Operaciones/Planta,Accidente de Trabajo,Leve,3,Falta de procedimiento/Capacitación
+INC-0203,2023-04-18,Logística/Bodega,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0269,2023-04-21,Logística/Bodega,Accidente de Trabajo,Leve,2,Fatiga / Factor humano
+INC-0132,2023-04-21,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0119,2023-04-21,Operaciones/Planta,Accidente de Trabajo,Leve,1,Falta de procedimiento/Capacitación
+INC-0391,2023-04-22,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0260,2023-04-27,Mantenimiento,Accidente de Trabajo,Leve,1,Peligro locativo / Desorden
+INC-0063,2023-04-27,Operaciones/Planta,Accidente de Trabajo,Leve,2,Fatiga / Factor humano
+INC-0273,2023-05-02,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0002,2023-05-02,Operaciones/Planta,Accidente de Trabajo,Moderado,11,Peligro locativo / Desorden
+INC-0051,2023-05-08,Operaciones/Planta,Accidente de Trabajo,Grave,38,Acto inseguro (No uso de EPP)
+INC-0003,2023-05-11,Operaciones/Planta,Enfermedad Laboral,Grave,16,Fatiga / Factor humano
+INC-0288,2023-05-13,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0345,2023-05-14,Operaciones/Planta,Accidente de Trabajo,Leve,3,Condición insegura (Herramienta/Equipo)
+INC-0388,2023-05-16,Mantenimiento,Accidente de Trabajo,Moderado,6,Condición insegura (Herramienta/Equipo)
+INC-0142,2023-05-19,Comercial/Campo,Accidente de Trabajo,Leve,2,Falta de procedimiento/Capacitación
+INC-0448,2023-05-23,Operaciones/Planta,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0307,2023-05-23,Logística/Bodega,Accidente de Trabajo,Leve,1,Condición insegura (Herramienta/Equipo)
+INC-0083,2023-05-24,Mantenimiento,Accidente de Trabajo,Leve,1,Condición insegura (Herramienta/Equipo)
+INC-0130,2023-05-25,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0184,2023-05-31,Logística/Bodega,Accidente de Trabajo,Leve,2,Falta de procedimiento/Capacitación
+INC-0296,2023-05-31,Operaciones/Planta,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0442,2023-06-05,Logística/Bodega,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0250,2023-06-06,Operaciones/Planta,Incapacidad Común,Moderado,14,Fatiga / Factor humano
+INC-0227,2023-06-09,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0043,2023-06-10,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0179,2023-06-11,Mantenimiento,Accidente de Trabajo,Moderado,10,Fatiga / Factor humano
+INC-0415,2023-06-14,Comercial/Campo,Accidente de Trabajo,Moderado,8,Falta de procedimiento/Capacitación
+INC-0290,2023-06-14,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0140,2023-06-22,Logística/Bodega,Accidente de Trabajo,Leve,1,Fatiga / Factor humano
+INC-0172,2023-06-26,Logística/Bodega,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0026,2023-07-09,Operaciones/Planta,Accidente de Trabajo,Moderado,12,Condición insegura (Herramienta/Equipo)
+INC-0006,2023-07-09,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0245,2023-07-11,Logística/Bodega,Accidente de Trabajo,Leve,2,Acto inseguro (No uso de EPP)
+INC-0266,2023-07-13,Comercial/Campo,Accidente de Trabajo,Moderado,5,Acto inseguro (No uso de EPP)
+INC-0139,2023-07-13,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0413,2023-07-15,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0293,2023-07-17,Operaciones/Planta,Accidente de Trabajo,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0018,2023-07-20,Mantenimiento,Accidente de Trabajo,Moderado,11,Peligro locativo / Desorden
+INC-0383,2023-07-22,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0118,2023-07-24,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0255,2023-07-27,Mantenimiento,Accidente de Trabajo,Moderado,8,Condición insegura (Herramienta/Equipo)
+INC-0440,2023-07-30,Logística/Bodega,Enfermedad Laboral,Moderado,12,Acto inseguro (No uso de EPP)
+INC-0399,2023-07-30,Operaciones/Planta,Accidente de Trabajo,Moderado,7,Acto inseguro (No uso de EPP)
+INC-0175,2023-08-03,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0205,2023-08-04,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0158,2023-08-04,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0235,2023-08-04,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0295,2023-08-05,Mantenimiento,Incapacidad Común,Leve,2,Falta de procedimiento/Capacitación
+INC-0376,2023-08-05,Mantenimiento,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0162,2023-08-06,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0031,2023-08-08,Operaciones/Planta,Accidente de Trabajo,Moderado,5,Condición insegura (Herramienta/Equipo)
+INC-0439,2023-08-15,Operaciones/Planta,Incapacidad Común,Grave,20,Fatiga / Factor humano
+INC-0023,2023-08-19,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0367,2023-08-20,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0122,2023-08-21,Operaciones/Planta,Incapacidad Común,Leve,1,Condición insegura (Herramienta/Equipo)
+INC-0348,2023-08-26,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0344,2023-09-01,Operaciones/Planta,Incapacidad Común,Leve,1,Acto inseguro (No uso de EPP)
+INC-0437,2023-09-04,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0405,2023-09-11,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0038,2023-09-20,Logística/Bodega,Incapacidad Común,Leve,1,Condición insegura (Herramienta/Equipo)
+INC-0356,2023-09-20,Logística/Bodega,Accidente de Trabajo,Moderado,11,Fatiga / Factor humano
+INC-0287,2023-09-27,Operaciones/Planta,Accidente de Trabajo,Moderado,4,Fatiga / Factor humano
+INC-0411,2023-09-27,Operaciones/Planta,Accidente de Trabajo,Moderado,9,Acto inseguro (No uso de EPP)
+INC-0444,2023-09-30,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0261,2023-10-01,Logística/Bodega,Accidente de Trabajo,Moderado,4,Falta de procedimiento/Capacitación
+INC-0424,2023-10-04,Operaciones/Planta,Accidente de Trabajo,Leve,1,Fatiga / Factor humano
+INC-0080,2023-10-06,Logística/Bodega,Accidente de Trabajo,Leve,1,Condición insegura (Herramienta/Equipo)
+INC-0353,2023-10-14,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0330,2023-10-15,Operaciones/Planta,Accidente de Trabajo,Moderado,6,Peligro locativo / Desorden
+INC-0308,2023-10-18,Operaciones/Planta,Accidente de Trabajo,Leve,2,Falta de procedimiento/Capacitación
+INC-0316,2023-10-18,Mantenimiento,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0382,2023-10-29,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0329,2023-10-29,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0300,2023-10-30,Mantenimiento,Accidente de Trabajo,Moderado,4,Condición insegura (Herramienta/Equipo)
+INC-0274,2023-11-05,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0343,2023-11-07,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0336,2023-11-07,Mantenimiento,Accidente de Trabajo,Moderado,4,Condición insegura (Herramienta/Equipo)
+INC-0289,2023-11-09,Operaciones/Planta,Accidente de Trabajo,Moderado,8,Condición insegura (Herramienta/Equipo)
+INC-0134,2023-11-11,Comercial/Campo,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0055,2023-11-17,Operaciones/Planta,Accidente de Trabajo,Moderado,5,Fatiga / Factor humano
+INC-0219,2023-11-20,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0418,2023-11-23,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0310,2023-11-24,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0228,2023-11-25,Administración,Incapacidad Común,Moderado,6,Falta de procedimiento/Capacitación
+INC-0146,2023-11-30,Comercial/Campo,Enfermedad Laboral,Leve,3,Acto inseguro (No uso de EPP)
+INC-0397,2023-12-02,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0362,2023-12-04,Operaciones/Planta,Accidente de Trabajo,Leve,3,Condición insegura (Herramienta/Equipo)
+INC-0218,2023-12-06,Logística/Bodega,Accidente de Trabajo,Leve,2,Falta de procedimiento/Capacitación
+INC-0342,2023-12-07,Operaciones/Planta,Accidente de Trabajo,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0354,2023-12-11,Operaciones/Planta,Enfermedad Laboral,Moderado,12,Peligro locativo / Desorden
+INC-0438,2023-12-19,Operaciones/Planta,Incapacidad Común,Leve,1,Acto inseguro (No uso de EPP)
+INC-0069,2023-12-23,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0097,2023-12-24,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0338,2023-12-30,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0126,2023-12-31,Operaciones/Planta,Accidente de Trabajo,Moderado,10,Falta de procedimiento/Capacitación
+INC-0372,2024-01-01,Comercial/Campo,Enfermedad Laboral,Moderado,6,Falta de procedimiento/Capacitación
+INC-0210,2024-01-07,Logística/Bodega,Accidente de Trabajo,Moderado,11,Acto inseguro (No uso de EPP)
+INC-0206,2024-01-09,Mantenimiento,Enfermedad Laboral,Leve,3,Acto inseguro (No uso de EPP)
+INC-0360,2024-01-21,Operaciones/Planta,Accidente de Trabajo,Moderado,13,Peligro locativo / Desorden
+INC-0008,2024-01-23,Comercial/Campo,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0021,2024-01-28,Logística/Bodega,Accidente de Trabajo,Leve,3,Fatiga / Factor humano
+INC-0081,2024-02-01,Administración,Accidente de Trabajo,Grave,33,Fatiga / Factor humano
+INC-0305,2024-02-01,Logística/Bodega,Accidente de Trabajo,Leve,2,Falta de procedimiento/Capacitación
+INC-0249,2024-02-01,Administración,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0403,2024-02-03,Mantenimiento,Incapacidad Común,Moderado,13,Falta de procedimiento/Capacitación
+INC-0033,2024-02-05,Logística/Bodega,Accidente de Trabajo,Grave,36,Fatiga / Factor humano
+INC-0044,2024-02-05,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0263,2024-02-05,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0339,2024-02-10,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0371,2024-02-12,Operaciones/Planta,Accidente de Trabajo,Moderado,13,Fatiga / Factor humano
+INC-0077,2024-02-17,Operaciones/Planta,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0215,2024-02-18,Operaciones/Planta,Accidente de Trabajo,Grave,49,Acto inseguro (No uso de EPP)
+INC-0170,2024-02-22,Comercial/Campo,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0017,2024-02-23,Logística/Bodega,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0226,2024-02-23,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0238,2024-02-26,Operaciones/Planta,Incapacidad Común,Moderado,6,Peligro locativo / Desorden
+INC-0420,2024-02-27,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0366,2024-02-29,Logística/Bodega,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0299,2024-03-02,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0176,2024-03-04,Operaciones/Planta,Incapacidad Común,Leve,2,Falta de procedimiento/Capacitación
+INC-0422,2024-03-10,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0110,2024-03-13,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0029,2024-03-17,Comercial/Campo,Accidente de Trabajo,Moderado,8,Acto inseguro (No uso de EPP)
+INC-0373,2024-03-17,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0089,2024-03-20,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0417,2024-03-20,Operaciones/Planta,Accidente de Trabajo,Leve,1,Fatiga / Factor humano
+INC-0319,2024-03-20,Operaciones/Planta,Enfermedad Laboral,Leve,2,Fatiga / Factor humano
+INC-0389,2024-03-24,Operaciones/Planta,Accidente de Trabajo,Moderado,12,Acto inseguro (No uso de EPP)
+INC-0102,2024-03-25,Operaciones/Planta,Incapacidad Común,Leve,3,Falta de procedimiento/Capacitación
+INC-0183,2024-03-27,Comercial/Campo,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0078,2024-04-01,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0248,2024-04-03,Logística/Bodega,Accidente de Trabajo,Grave,31,Acto inseguro (No uso de EPP)
+INC-0286,2024-04-04,Operaciones/Planta,Enfermedad Laboral,Moderado,9,Falta de procedimiento/Capacitación
+INC-0449,2024-04-04,Operaciones/Planta,Incapacidad Común,Moderado,5,Fatiga / Factor humano
+INC-0045,2024-04-14,Operaciones/Planta,Accidente de Trabajo,Leve,3,Peligro locativo / Desorden
+INC-0037,2024-04-17,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0246,2024-04-18,Operaciones/Planta,Incapacidad Común,Leve,3,Peligro locativo / Desorden
+INC-0005,2024-04-19,Mantenimiento,Accidente de Trabajo,Grave,29,Fatiga / Factor humano
+INC-0174,2024-04-20,Mantenimiento,Accidente de Trabajo,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0091,2024-04-20,Logística/Bodega,Incapacidad Común,Moderado,12,Condición insegura (Herramienta/Equipo)
+INC-0154,2024-04-22,Administración,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0430,2024-04-29,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0379,2024-05-02,Mantenimiento,Accidente de Trabajo,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0207,2024-05-03,Comercial/Campo,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0190,2024-05-08,Comercial/Campo,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0088,2024-05-14,Operaciones/Planta,Incapacidad Común,Moderado,9,Peligro locativo / Desorden
+INC-0284,2024-05-18,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0341,2024-05-23,Operaciones/Planta,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0010,2024-05-23,Logística/Bodega,Accidente de Trabajo,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0147,2024-05-27,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0185,2024-05-28,Comercial/Campo,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0256,2024-06-03,Logística/Bodega,Incapacidad Común,Leve,1,Fatiga / Factor humano
+INC-0230,2024-06-04,Operaciones/Planta,Incapacidad Común,Leve,3,Falta de procedimiento/Capacitación
+INC-0378,2024-06-06,Operaciones/Planta,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0024,2024-06-08,Operaciones/Planta,Accidente de Trabajo,Grave,59,Fatiga / Factor humano
+INC-0189,2024-06-09,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0141,2024-06-15,Operaciones/Planta,Accidente de Trabajo,Moderado,9,Acto inseguro (No uso de EPP)
+INC-0384,2024-06-17,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0385,2024-06-24,Logística/Bodega,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0435,2024-06-27,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0365,2024-07-07,Logística/Bodega,Incapacidad Común,Leve,1,Condición insegura (Herramienta/Equipo)
+INC-0431,2024-07-07,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0237,2024-07-10,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0320,2024-07-12,Comercial/Campo,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0406,2024-07-16,Comercial/Campo,Accidente de Trabajo,Moderado,8,Acto inseguro (No uso de EPP)
+INC-0084,2024-07-22,Operaciones/Planta,Incapacidad Común,Leve,3,Acto inseguro (No uso de EPP)
+INC-0253,2024-07-23,Administración,Accidente de Trabajo,Leve,1,Peligro locativo / Desorden
+INC-0236,2024-07-24,Administración,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0423,2024-07-24,Mantenimiento,Accidente de Trabajo,Leve,3,Condición insegura (Herramienta/Equipo)
+INC-0419,2024-07-26,Administración,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0169,2024-07-28,Mantenimiento,Incapacidad Común,Leve,3,Acto inseguro (No uso de EPP)
+INC-0057,2024-07-28,Comercial/Campo,Incapacidad Común,Leve,2,Acto inseguro (No uso de EPP)
+INC-0303,2024-07-28,Comercial/Campo,Accidente de Trabajo,Moderado,12,Peligro locativo / Desorden
+INC-0436,2024-07-28,Mantenimiento,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0346,2024-07-31,Operaciones/Planta,Accidente de Trabajo,Leve,2,Fatiga / Factor humano
+INC-0393,2024-08-09,Logística/Bodega,Incapacidad Común,Grave,18,Falta de procedimiento/Capacitación
+INC-0398,2024-08-16,Mantenimiento,Accidente de Trabajo,Leve,2,Falta de procedimiento/Capacitación
+INC-0156,2024-08-20,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0428,2024-08-23,Operaciones/Planta,Accidente de Trabajo,Grave,26,Peligro locativo / Desorden
+INC-0392,2024-08-24,Logística/Bodega,Incapacidad Común,Grave,34,Condición insegura (Herramienta/Equipo)
+INC-0165,2024-08-26,Operaciones/Planta,Accidente de Trabajo,Moderado,11,Falta de procedimiento/Capacitación
+INC-0050,2024-08-29,Comercial/Campo,Incapacidad Común,Leve,3,Peligro locativo / Desorden
+INC-0191,2024-09-01,Operaciones/Planta,Accidente de Trabajo,Leve,2,Acto inseguro (No uso de EPP)
+INC-0434,2024-09-04,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0291,2024-09-11,Mantenimiento,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0364,2024-09-15,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0052,2024-09-17,Mantenimiento,Enfermedad Laboral,Leve,2,Acto inseguro (No uso de EPP)
+INC-0085,2024-09-25,Mantenimiento,Incapacidad Común,Moderado,12,Falta de procedimiento/Capacitación
+INC-0064,2024-09-25,Operaciones/Planta,Accidente de Trabajo,Moderado,8,Condición insegura (Herramienta/Equipo)
+INC-0229,2024-09-26,Operaciones/Planta,Incapacidad Común,Moderado,13,Condición insegura (Herramienta/Equipo)
+INC-0328,2024-09-28,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0020,2024-10-04,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0317,2024-10-05,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0450,2024-10-07,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0194,2024-10-07,Logística/Bodega,Accidente de Trabajo,Moderado,10,Peligro locativo / Desorden
+INC-0326,2024-10-11,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0096,2024-10-17,Logística/Bodega,Incapacidad Común,Grave,22,Acto inseguro (No uso de EPP)
+INC-0062,2024-10-18,Operaciones/Planta,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0035,2024-10-21,Operaciones/Planta,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0135,2024-10-23,Operaciones/Planta,Accidente de Trabajo,Moderado,11,Fatiga / Factor humano
+INC-0335,2024-10-23,Mantenimiento,Enfermedad Laboral,Moderado,12,Peligro locativo / Desorden
+INC-0311,2024-10-26,Operaciones/Planta,Accidente de Trabajo,Leve,3,Peligro locativo / Desorden
+INC-0120,2024-10-28,Logística/Bodega,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0414,2024-11-02,Logística/Bodega,Enfermedad Laboral,Leve,2,Peligro locativo / Desorden
+INC-0325,2024-11-03,Operaciones/Planta,Accidente de Trabajo,Moderado,10,Peligro locativo / Desorden
+INC-0264,2024-11-03,Mantenimiento,Accidente de Trabajo,Leve,1,Fatiga / Factor humano
+INC-0098,2024-11-06,Mantenimiento,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0028,2024-11-14,Operaciones/Planta,Accidente de Trabajo,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0108,2024-11-15,Mantenimiento,Accidente de Trabajo,Moderado,5,Condición insegura (Herramienta/Equipo)
+INC-0380,2024-11-16,Operaciones/Planta,Enfermedad Laboral,Moderado,10,Acto inseguro (No uso de EPP)
+INC-0409,2024-11-16,Mantenimiento,Accidente de Trabajo,Moderado,7,Fatiga / Factor humano
+INC-0209,2024-11-18,Operaciones/Planta,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0073,2024-11-21,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0067,2024-11-27,Operaciones/Planta,Accidente de Trabajo,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0234,2024-11-28,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0242,2024-11-30,Operaciones/Planta,Incapacidad Común,Moderado,13,Falta de procedimiento/Capacitación
+INC-0363,2024-12-03,Mantenimiento,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0387,2024-12-03,Operaciones/Planta,Accidente de Trabajo,Moderado,8,Fatiga / Factor humano
+INC-0012,2024-12-03,Logística/Bodega,Accidente de Trabajo,Moderado,11,Acto inseguro (No uso de EPP)
+INC-0027,2024-12-10,Mantenimiento,Accidente de Trabajo,Moderado,13,Peligro locativo / Desorden
+INC-0107,2024-12-14,Logística/Bodega,Accidente de Trabajo,Leve,3,Condición insegura (Herramienta/Equipo)
+INC-0129,2024-12-14,Mantenimiento,Incapacidad Común,Leve,1,Acto inseguro (No uso de EPP)
+INC-0314,2024-12-15,Operaciones/Planta,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0125,2024-12-19,Mantenimiento,Incapacidad Común,Moderado,11,Acto inseguro (No uso de EPP)
+INC-0410,2024-12-25,Operaciones/Planta,Accidente de Trabajo,Leve,3,Fatiga / Factor humano
+INC-0441,2024-12-25,Operaciones/Planta,Incapacidad Común,Leve,2,Fatiga / Factor humano
+INC-0149,2024-12-25,Operaciones/Planta,Accidente de Trabajo,Grave,39,Acto inseguro (No uso de EPP)
+INC-0019,2024-12-26,Administración,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0321,2024-12-26,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0334,2024-12-27,Operaciones/Planta,Accidente de Trabajo,Moderado,7,Falta de procedimiento/Capacitación
+INC-0258,2025-01-03,Operaciones/Planta,Accidente de Trabajo,Leve,1,Fatiga / Factor humano
+INC-0408,2025-01-12,Comercial/Campo,Incapacidad Común,Leve,1,Condición insegura (Herramienta/Equipo)
+INC-0198,2025-01-13,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0186,2025-01-15,Logística/Bodega,Accidente de Trabajo,Moderado,8,Fatiga / Factor humano
+INC-0133,2025-01-17,Operaciones/Planta,Accidente de Trabajo,Moderado,5,Fatiga / Factor humano
+INC-0217,2025-01-17,Mantenimiento,Incapacidad Común,Moderado,12,Condición insegura (Herramienta/Equipo)
+INC-0127,2025-01-19,Logística/Bodega,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0199,2025-01-20,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0034,2025-01-21,Logística/Bodega,Accidente de Trabajo,Leve,1,Falta de procedimiento/Capacitación
+INC-0280,2025-01-24,Mantenimiento,Incapacidad Común,Leve,2,Fatiga / Factor humano
+INC-0276,2025-01-24,Logística/Bodega,Accidente de Trabajo,Moderado,4,Condición insegura (Herramienta/Equipo)
+INC-0181,2025-01-30,Logística/Bodega,Accidente de Trabajo,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0094,2025-02-02,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0377,2025-02-08,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0106,2025-02-09,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0060,2025-02-12,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0432,2025-02-13,Mantenimiento,Accidente de Trabajo,Leve,2,Falta de procedimiento/Capacitación
+INC-0368,2025-02-14,Administración,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0009,2025-02-15,Operaciones/Planta,Accidente de Trabajo,Leve,3,Fatiga / Factor humano
+INC-0166,2025-02-17,Mantenimiento,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0357,2025-02-23,Operaciones/Planta,Accidente de Trabajo,Moderado,9,Peligro locativo / Desorden
+INC-0053,2025-02-23,Logística/Bodega,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0066,2025-02-28,Logística/Bodega,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0014,2025-03-02,Operaciones/Planta,Accidente de Trabajo,Leve,1,Fatiga / Factor humano
+INC-0254,2025-03-03,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0347,2025-03-03,Mantenimiento,Accidente de Trabajo,Moderado,9,Condición insegura (Herramienta/Equipo)
+INC-0123,2025-03-04,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0116,2025-03-07,Operaciones/Planta,Incapacidad Común,Moderado,7,Acto inseguro (No uso de EPP)
+INC-0114,2025-03-08,Mantenimiento,Accidente de Trabajo,Leve,2,Acto inseguro (No uso de EPP)
+INC-0265,2025-03-11,Administración,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0070,2025-03-12,Operaciones/Planta,Accidente de Trabajo,Leve,1,Falta de procedimiento/Capacitación
+INC-0212,2025-03-15,Mantenimiento,Accidente de Trabajo,Leve,1,Fatiga / Factor humano
+INC-0093,2025-03-25,Administración,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0040,2025-03-26,Logística/Bodega,Incapacidad Común,Moderado,14,Condición insegura (Herramienta/Equipo)
+INC-0306,2025-04-01,Mantenimiento,Accidente de Trabajo,Leve,3,Condición insegura (Herramienta/Equipo)
+INC-0395,2025-04-01,Logística/Bodega,Accidente de Trabajo,Leve,1,Fatiga / Factor humano
+INC-0136,2025-04-02,Logística/Bodega,Accidente de Trabajo,Grave,45,Peligro locativo / Desorden
+INC-0061,2025-04-02,Operaciones/Planta,Accidente de Trabajo,Leve,2,Acto inseguro (No uso de EPP)
+INC-0092,2025-04-03,Mantenimiento,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0332,2025-04-07,Operaciones/Planta,Incapacidad Común,Moderado,11,Falta de procedimiento/Capacitación
+INC-0124,2025-04-10,Operaciones/Planta,Accidente de Trabajo,Moderado,4,Fatiga / Factor humano
+INC-0178,2025-04-10,Operaciones/Planta,Accidente de Trabajo,Leve,2,Falta de procedimiento/Capacitación
+INC-0401,2025-04-10,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0007,2025-04-11,Mantenimiento,Incapacidad Común,Leve,2,Peligro locativo / Desorden
+INC-0056,2025-04-13,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0404,2025-04-16,Operaciones/Planta,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0283,2025-04-16,Operaciones/Planta,Accidente de Trabajo,Leve,2,Fatiga / Factor humano
+INC-0058,2025-04-17,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0412,2025-04-20,Mantenimiento,Accidente de Trabajo,Moderado,14,Fatiga / Factor humano
+INC-0309,2025-04-21,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0421,2025-04-21,Operaciones/Planta,Incapacidad Común,Moderado,5,Condición insegura (Herramienta/Equipo)
+INC-0251,2025-04-28,Comercial/Campo,Accidente de Trabajo,Grave,30,Peligro locativo / Desorden
+INC-0072,2025-05-01,Mantenimiento,Accidente de Trabajo,Leve,1,Fatiga / Factor humano
+INC-0188,2025-05-03,Logística/Bodega,Accidente de Trabajo,Moderado,4,Falta de procedimiento/Capacitación
+INC-0001,2025-05-10,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0277,2025-05-11,Comercial/Campo,Accidente de Trabajo,Moderado,7,Fatiga / Factor humano
+INC-0036,2025-05-13,Operaciones/Planta,Incapacidad Común,Moderado,14,Acto inseguro (No uso de EPP)
+INC-0022,2025-05-13,Mantenimiento,Accidente de Trabajo,Grave,37,Fatiga / Factor humano
+INC-0157,2025-05-14,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0279,2025-05-15,Mantenimiento,Incapacidad Común,Moderado,10,Acto inseguro (No uso de EPP)
+INC-0252,2025-05-18,Mantenimiento,Accidente de Trabajo,Leve,3,Condición insegura (Herramienta/Equipo)
+INC-0148,2025-05-22,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0271,2025-05-23,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0171,2025-05-25,Comercial/Campo,Accidente de Trabajo,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0042,2025-05-27,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0047,2025-05-28,Mantenimiento,Accidente de Trabajo,Leve,3,Peligro locativo / Desorden
+INC-0138,2025-05-30,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0223,2025-06-03,Logística/Bodega,Accidente de Trabajo,Leve,2,Falta de procedimiento/Capacitación
+INC-0164,2025-06-06,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0285,2025-06-09,Operaciones/Planta,Accidente de Trabajo,Moderado,4,Falta de procedimiento/Capacitación
+INC-0214,2025-06-12,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0065,2025-06-15,Comercial/Campo,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0361,2025-06-19,Operaciones/Planta,Accidente de Trabajo,Moderado,8,Acto inseguro (No uso de EPP)
+INC-0349,2025-06-20,Operaciones/Planta,Accidente de Trabajo,Leve,1,Peligro locativo / Desorden
+INC-0195,2025-06-24,Comercial/Campo,Accidente de Trabajo,Moderado,5,Fatiga / Factor humano
+INC-0101,2025-06-27,Comercial/Campo,Incapacidad Común,Leve,1,Acto inseguro (No uso de EPP)
+INC-0145,2025-06-29,Mantenimiento,Accidente de Trabajo,Moderado,5,Condición insegura (Herramienta/Equipo)
+INC-0232,2025-07-02,Operaciones/Planta,Accidente de Trabajo,Moderado,4,Peligro locativo / Desorden
+INC-0275,2025-07-02,Logística/Bodega,Accidente de Trabajo,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0112,2025-07-07,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0054,2025-07-09,Mantenimiento,Accidente de Trabajo,Moderado,7,Condición insegura (Herramienta/Equipo)
+INC-0327,2025-07-09,Comercial/Campo,Accidente de Trabajo,Moderado,13,Peligro locativo / Desorden
+INC-0433,2025-07-17,Mantenimiento,Accidente de Trabajo,Moderado,14,Peligro locativo / Desorden
+INC-0100,2025-07-17,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0445,2025-07-19,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0187,2025-07-22,Logística/Bodega,Accidente de Trabajo,Leve,2,Peligro locativo / Desorden
+INC-0224,2025-07-25,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0282,2025-07-28,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0375,2025-08-03,Operaciones/Planta,Accidente de Trabajo,Moderado,12,Fatiga / Factor humano
+INC-0087,2025-08-03,Administración,Accidente de Trabajo,Leve,3,Peligro locativo / Desorden
+INC-0247,2025-08-05,Logística/Bodega,Accidente de Trabajo,Moderado,6,Falta de procedimiento/Capacitación
+INC-0220,2025-08-06,Comercial/Campo,Accidente de Trabajo,Leve,3,Condición insegura (Herramienta/Equipo)
+INC-0030,2025-08-09,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0086,2025-08-11,Mantenimiento,Accidente de Trabajo,Leve,1,Peligro locativo / Desorden
+INC-0278,2025-08-13,Operaciones/Planta,Incapacidad Común,Leve,1,Condición insegura (Herramienta/Equipo)
+INC-0369,2025-08-13,Mantenimiento,Incapacidad Común,Moderado,4,Peligro locativo / Desorden
+INC-0004,2025-08-13,Operaciones/Planta,Accidente de Trabajo,Leve,1,Peligro locativo / Desorden
+INC-0200,2025-08-15,Comercial/Campo,Accidente de Trabajo,Moderado,8,Condición insegura (Herramienta/Equipo)
+INC-0257,2025-08-17,Operaciones/Planta,Incapacidad Común,Moderado,12,Acto inseguro (No uso de EPP)
+INC-0315,2025-08-21,Operaciones/Planta,Accidente de Trabajo,Grave,42,Falta de procedimiento/Capacitación
+INC-0447,2025-08-25,Operaciones/Planta,Accidente de Trabajo,Moderado,12,Falta de procedimiento/Capacitación
+INC-0168,2025-08-26,Logística/Bodega,Accidente de Trabajo,Leve,1,Condición insegura (Herramienta/Equipo)
+INC-0076,2025-08-27,Operaciones/Planta,Incapacidad Común,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0304,2025-08-28,Administración,Accidente de Trabajo,Moderado,9,Fatiga / Factor humano
+INC-0402,2025-08-28,Logística/Bodega,Accidente de Trabajo,Leve,3,Condición insegura (Herramienta/Equipo)
+INC-0079,2025-09-04,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0337,2025-09-06,Mantenimiento,Accidente de Trabajo,Grave,19,Fatiga / Factor humano
+INC-0208,2025-09-07,Mantenimiento,Accidente de Trabajo,Moderado,6,Peligro locativo / Desorden
+INC-0213,2025-09-08,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0355,2025-09-09,Operaciones/Planta,Accidente de Trabajo,Moderado,6,Condición insegura (Herramienta/Equipo)
+INC-0167,2025-09-09,Comercial/Campo,Incapacidad Común,Leve,1,Falta de procedimiento/Capacitación
+INC-0416,2025-09-10,Operaciones/Planta,Accidente de Trabajo,Moderado,12,Peligro locativo / Desorden
+INC-0117,2025-09-10,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0115,2025-09-10,Comercial/Campo,Accidente de Trabajo,Moderado,8,Acto inseguro (No uso de EPP)
+INC-0322,2025-09-10,Mantenimiento,Incapacidad Común,Leve,1,Condición insegura (Herramienta/Equipo)
+INC-0244,2025-09-15,Logística/Bodega,Accidente de Trabajo,Leve,3,Fatiga / Factor humano
+INC-0351,2025-09-15,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0374,2025-09-18,Mantenimiento,Incapacidad Común,Grave,29,Condición insegura (Herramienta/Equipo)
+INC-0059,2025-09-19,Logística/Bodega,Accidente de Trabajo,Moderado,7,Fatiga / Factor humano
+INC-0324,2025-09-19,Mantenimiento,Accidente de Trabajo,Moderado,5,Condición insegura (Herramienta/Equipo)
+INC-0163,2025-09-19,Operaciones/Planta,Incapacidad Común,Leve,1,Fatiga / Factor humano
+INC-0243,2025-09-20,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0211,2025-09-21,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0193,2025-09-24,Logística/Bodega,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0313,2025-10-01,Logística/Bodega,Accidente de Trabajo,Moderado,12,Peligro locativo / Desorden
+INC-0152,2025-10-03,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0177,2025-10-06,Mantenimiento,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0068,2025-10-08,Operaciones/Planta,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0025,2025-10-09,Administración,Incapacidad Común,Leve,2,Fatiga / Factor humano
+INC-0340,2025-10-09,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0071,2025-10-12,Logística/Bodega,Accidente de Trabajo,Leve,3,Acto inseguro (No uso de EPP)
+INC-0103,2025-10-12,Operaciones/Planta,Incapacidad Común,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0013,2025-10-13,Comercial/Campo,Incapacidad Común,Leve,1,Peligro locativo / Desorden
+INC-0259,2025-10-13,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0196,2025-10-16,Comercial/Campo,Accidente de Trabajo,Moderado,13,Peligro locativo / Desorden
+INC-0155,2025-10-17,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0011,2025-10-18,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0301,2025-10-21,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Peligro locativo / Desorden
+INC-0121,2025-10-25,Operaciones/Planta,Accidente de Trabajo,Leve,1,Peligro locativo / Desorden
+INC-0180,2025-10-28,Operaciones/Planta,Accidente de Trabajo,Leve,2,Falta de procedimiento/Capacitación
+INC-0297,2025-10-28,Comercial/Campo,Accidente de Trabajo,Leve,1,Peligro locativo / Desorden
+INC-0390,2025-10-30,Logística/Bodega,Incapacidad Común,Leve,1,Falta de procedimiento/Capacitación
+INC-0350,2025-11-01,Comercial/Campo,Accidente de Trabajo,Grave,34,Peligro locativo / Desorden
+INC-0294,2025-11-01,Operaciones/Planta,Enfermedad Laboral,Leve,2,Falta de procedimiento/Capacitación
+INC-0128,2025-11-04,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0292,2025-11-09,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0396,2025-11-09,Mantenimiento,Incapacidad Común,Moderado,11,Peligro locativo / Desorden
+INC-0394,2025-11-09,Logística/Bodega,Accidente de Trabajo,Leve,1,Acto inseguro (No uso de EPP)
+INC-0151,2025-11-12,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0239,2025-11-20,Logística/Bodega,Accidente de Trabajo,Leve,3,Falta de procedimiento/Capacitación
+INC-0216,2025-11-28,Operaciones/Planta,Accidente de Trabajo,Leve,1,Condición insegura (Herramienta/Equipo)
+INC-0318,2025-11-28,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Condición insegura (Herramienta/Equipo)
+INC-0153,2025-11-28,Operaciones/Planta,Incapacidad Común,Leve,3,Falta de procedimiento/Capacitación
+INC-0233,2025-11-29,Administración,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0150,2025-12-01,Operaciones/Planta,Incapacidad Común,Moderado,4,Falta de procedimiento/Capacitación
+INC-0074,2025-12-02,Operaciones/Planta,Accidente de Trabajo,Leve,2,Acto inseguro (No uso de EPP)
+INC-0427,2025-12-03,Mantenimiento,Casi Accidente (Near Miss),N/A,0,Fatiga / Factor humano
+INC-0204,2025-12-03,Logística/Bodega,Enfermedad Laboral,Grave,26,Condición insegura (Herramienta/Equipo)
+INC-0241,2025-12-05,Operaciones/Planta,Casi Accidente (Near Miss),N/A,0,Acto inseguro (No uso de EPP)
+INC-0048,2025-12-08,Operaciones/Planta,Enfermedad Laboral,Leve,2,Peligro locativo / Desorden
+INC-0173,2025-12-08,Operaciones/Planta,Enfermedad Laboral,Leve,2,Condición insegura (Herramienta/Equipo)
+INC-0032,2025-12-12,Mantenimiento,Enfermedad Laboral,Leve,3,Fatiga / Factor humano
+INC-0111,2025-12-13,Comercial/Campo,Accidente de Trabajo,Leve,3,Falta de procedimiento/Capacitación
+INC-0222,2025-12-21,Mantenimiento,Accidente de Trabajo,Leve,1,Fatiga / Factor humano
+INC-0358,2025-12-22,Logística/Bodega,Accidente de Trabajo,Leve,3,Peligro locativo / Desorden
+INC-0016,2025-12-22,Logística/Bodega,Casi Accidente (Near Miss),N/A,0,Falta de procedimiento/Capacitación
+INC-0446,2025-12-25,Operaciones/Planta,Accidente de Trabajo,Moderado,4,Condición insegura (Herramienta/Equipo)
+INC-0302,2025-12-28,Mantenimiento,Accidente de Trabajo,Grave,20,Acto inseguro (No uso de EPP)
