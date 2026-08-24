@@ -34,7 +34,7 @@ Este proyecto replica la metodología de análisis de datos que utilicé durante
 ```
 
 ## Estructura del Dashboard
-## Vinculo del Dashboard
+## Vinculo del Dashboard : <iframe title="Dashboard_SST" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTg0MWMyZWMtNTdmYS00MjhmLWFhMTAtZDM3MGQ2NjY5YzhiIiwidCI6ImZkNzY2ZWRkLThiZWEtNGM5OS04NjcyLTU2ZDFjYWJjMjcwNiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Página 1: Resumen Ejecutivo (Monitoreo General)
 
