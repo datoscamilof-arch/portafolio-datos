@@ -1,0 +1,485 @@
+Codigo;Producto;Mes;Contribucion al IPC;Clase_social
+1110000;Pan Y Cereales;Febrero;0,01167978;Pobres
+1110000;Pan Y Cereales;Marzo;0,000896313;Pobres
+1110000;Pan Y Cereales;Abril;0,00806534;Pobres
+1110000;Pan Y Cereales;Mayo;0,006859208;Pobres
+1110000;Pan Y Cereales;Junio;-0,006254018;Pobres
+1110000;Pan Y Cereales;Julio;-0,013120369;Pobres
+1110000;Pan Y Cereales;Agosto;-0,012258556;Pobres
+1110000;Pan Y Cereales;Septiembre;-0,010490813;Pobres
+1110000;Pan Y Cereales;Octubre;-0,010513275;Pobres
+1110000;Pan Y Cereales;Noviembre;-0,0328116;Pobres
+1110000;Pan Y Cereales;Diciembre;-0,017576842;Pobres
+1120000;Carnes;Febrero;0,044583036;Pobres
+1120000;Carnes;Marzo;0,038516161;Pobres
+1120000;Carnes;Abril;0,022452565;Pobres
+1120000;Carnes;Mayo;0,004410339;Pobres
+1120000;Carnes;Junio;0,011017542;Pobres
+1120000;Carnes;Julio;0,00911166;Pobres
+1120000;Carnes;Agosto;0,023214286;Pobres
+1120000;Carnes;Septiembre;0,023747463;Pobres
+1120000;Carnes;Octubre;0,028319502;Pobres
+1120000;Carnes;Noviembre;0,030041294;Pobres
+1120000;Carnes;Diciembre;0,01571421;Pobres
+1130000;Pescado;Febrero;0,004016941;Pobres
+1130000;Pescado;Marzo;0,007778667;Pobres
+1130000;Pescado;Abril;0,007222527;Pobres
+1130000;Pescado;Mayo;0,004417141;Pobres
+1130000;Pescado;Junio;-0,000214406;Pobres
+1130000;Pescado;Julio;-0,001233133;Pobres
+1130000;Pescado;Agosto;0,000590577;Pobres
+1130000;Pescado;Septiembre;0,002038823;Pobres
+1130000;Pescado;Octubre;0;Pobres
+1130000;Pescado;Noviembre;0,001445327;Pobres
+1130000;Pescado;Diciembre;-0,000748214;Pobres
+1140000;Leche, Queso Y Huevos;Febrero;0,005198488;Pobres
+1140000;Leche, Queso Y Huevos;Marzo;0,020141288;Pobres
+1140000;Leche, Queso Y Huevos;Abril;0,036343364;Pobres
+1140000;Leche, Queso Y Huevos;Mayo;0,017173754;Pobres
+1140000;Leche, Queso Y Huevos;Junio;-0,001627894;Pobres
+1140000;Leche, Queso Y Huevos;Julio;-0,007328809;Pobres
+1140000;Leche, Queso Y Huevos;Agosto;0,009995504;Pobres
+1140000;Leche, Queso Y Huevos;Septiembre;-0,006102892;Pobres
+1140000;Leche, Queso Y Huevos;Octubre;-0,004075446;Pobres
+1140000;Leche, Queso Y Huevos;Noviembre;-0,007752051;Pobres
+1140000;Leche, Queso Y Huevos;Diciembre;0,010017459;Pobres
+1150000;Aceites Y Grasas;Febrero;0,003172879;Pobres
+1150000;Aceites Y Grasas;Marzo;0,000235901;Pobres
+1150000;Aceites Y Grasas;Abril;0,006037401;Pobres
+1150000;Aceites Y Grasas;Mayo;0,008523886;Pobres
+1150000;Aceites Y Grasas;Junio;0,001901151;Pobres
+1150000;Aceites Y Grasas;Julio;0,004395275;Pobres
+1150000;Aceites Y Grasas;Agosto;0,006075703;Pobres
+1150000;Aceites Y Grasas;Septiembre;0,002696382;Pobres
+1150000;Aceites Y Grasas;Octubre;0,000501126;Pobres
+1150000;Aceites Y Grasas;Noviembre;0,001001661;Pobres
+1150000;Aceites Y Grasas;Diciembre;0;Pobres
+1160000;Frutas;Febrero;0,011692575;Pobres
+1160000;Frutas;Marzo;0,008369668;Pobres
+1160000;Frutas;Abril;0,016851781;Pobres
+1160000;Frutas;Mayo;-0,006545044;Pobres
+1160000;Frutas;Junio;-0,008673603;Pobres
+1160000;Frutas;Julio;0,035547954;Pobres
+1160000;Frutas;Agosto;0,0367524;Pobres
+1160000;Frutas;Septiembre;0,021144643;Pobres
+1160000;Frutas;Octubre;-0,003028695;Pobres
+1160000;Frutas;Noviembre;-0,03795564;Pobres
+1160000;Frutas;Diciembre;-0,028511936;Pobres
+1170000;Legumbres;Febrero;-0,033272277;Pobres
+1170000;Legumbres;Marzo;0,023343677;Pobres
+1170000;Legumbres;Abril;0,102556342;Pobres
+1170000;Legumbres;Mayo;0,055969837;Pobres
+1170000;Legumbres;Junio;-0,065218734;Pobres
+1170000;Legumbres;Julio;0,070274246;Pobres
+1170000;Legumbres;Agosto;-0,013654123;Pobres
+1170000;Legumbres;Septiembre;-0,017677732;Pobres
+1170000;Legumbres;Octubre;-0,094029696;Pobres
+1170000;Legumbres;Noviembre;-0,085066324;Pobres
+1170000;Legumbres;Diciembre;0,051519314;Pobres
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Febrero;0,015100823;Pobres
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Marzo;0,007478515;Pobres
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Abril;0,009534173;Pobres
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Mayo;0,014498433;Pobres
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Junio;0,014483239;Pobres
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Julio;0,007063585;Pobres
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Agosto;0,003256779;Pobres
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Septiembre;-0,001791587;Pobres
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Octubre;0,000504698;Pobres
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Noviembre;-0,002970762;Pobres
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Diciembre;-0,004552405;Pobres
+1190000;Productos Alimenticios No Incluidos Anteriormente;Febrero;0,00177157;Pobres
+1190000;Productos Alimenticios No Incluidos Anteriormente;Marzo;0,007259646;Pobres
+1190000;Productos Alimenticios No Incluidos Anteriormente;Abril;0,000721983;Pobres
+1190000;Productos Alimenticios No Incluidos Anteriormente;Mayo;0,00690839;Pobres
+1190000;Productos Alimenticios No Incluidos Anteriormente;Junio;0,004771491;Pobres
+1190000;Productos Alimenticios No Incluidos Anteriormente;Julio;0,007461024;Pobres
+1190000;Productos Alimenticios No Incluidos Anteriormente;Agosto;-0,007674009;Pobres
+1190000;Productos Alimenticios No Incluidos Anteriormente;Septiembre;0,004217357;Pobres
+1190000;Productos Alimenticios No Incluidos Anteriormente;Octubre;-0,003078328;Pobres
+1190000;Productos Alimenticios No Incluidos Anteriormente;Noviembre;-0,00212379;Pobres
+1190000;Productos Alimenticios No Incluidos Anteriormente;Diciembre;-0,001345607;Pobres
+1210000;Café, Té Y Cacao;Febrero;0,018709024;Pobres
+1210000;Café, Té Y Cacao;Marzo;0,021071443;Pobres
+1210000;Café, Té Y Cacao;Abril;0,020275349;Pobres
+1210000;Café, Té Y Cacao;Mayo;0,018147895;Pobres
+1210000;Café, Té Y Cacao;Junio;0,017272727;Pobres
+1210000;Café, Té Y Cacao;Julio;0,019558824;Pobres
+1210000;Café, Té Y Cacao;Agosto;0,010036669;Pobres
+1210000;Café, Té Y Cacao;Septiembre;0,00534811;Pobres
+1210000;Café, Té Y Cacao;Octubre;0,004300148;Pobres
+1210000;Café, Té Y Cacao;Noviembre;0,002553149;Pobres
+1210000;Café, Té Y Cacao;Diciembre;0,000379368;Pobres
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Febrero;0,017650522;Pobres
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Marzo;0,011839054;Pobres
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Abril;0,005038803;Pobres
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Mayo;0,005016236;Pobres
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Junio;0,003932672;Pobres
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Julio;-0,004043321;Pobres
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Agosto;0,005618729;Pobres
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Septiembre;-0,001490849;Pobres
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Octubre;-0,000248806;Pobres
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Noviembre;0,004666148;Pobres
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Diciembre;0,003035902;Pobres
+1110000;Pan Y Cereales;Febrero;0,170569;Vulnerables
+1110000;Pan Y Cereales;Marzo;0,000753925;Vulnerables
+1110000;Pan Y Cereales;Abril;0,006784085;Vulnerables
+1110000;Pan Y Cereales;Mayo;0,005769558;Vulnerables
+1110000;Pan Y Cereales;Junio;-0,005260508;Vulnerables
+1110000;Pan Y Cereales;Julio;-0,011036074;Vulnerables
+1110000;Pan Y Cereales;Agosto;-0,010311168;Vulnerables
+1110000;Pan Y Cereales;Septiembre;-0,008824248;Vulnerables
+1110000;Pan Y Cereales;Octubre;-0,008843142;Vulnerables
+1110000;Pan Y Cereales;Noviembre;-0,027599166;Vulnerables
+1110000;Pan Y Cereales;Diciembre;-0,014784594;Vulnerables
+1120000;Carnes;Febrero;0,350464;Vulnerables
+1120000;Carnes;Marzo;0,038977038;Vulnerables
+1120000;Carnes;Abril;0,022721228;Vulnerables
+1120000;Carnes;Mayo;0,004463113;Vulnerables
+1120000;Carnes;Junio;0,011149376;Vulnerables
+1120000;Carnes;Julio;0,009220689;Vulnerables
+1120000;Carnes;Agosto;0,023492063;Vulnerables
+1120000;Carnes;Septiembre;0,024031621;Vulnerables
+1120000;Carnes;Octubre;0,028658368;Vulnerables
+1120000;Carnes;Noviembre;0,030400762;Vulnerables
+1120000;Carnes;Diciembre;0,015902244;Vulnerables
+1130000;Pescado;Febrero;0,006084;Vulnerables
+1130000;Pescado;Marzo;0,006817259;Vulnerables
+1130000;Pescado;Abril;0,006329855;Vulnerables
+1130000;Pescado;Mayo;0,003871202;Vulnerables
+1130000;Pescado;Junio;-0,000187907;Vulnerables
+1130000;Pescado;Julio;-0,001080723;Vulnerables
+1130000;Pescado;Agosto;0,000517585;Vulnerables
+1130000;Pescado;Septiembre;0,001786834;Vulnerables
+1130000;Pescado;Octubre;0;Vulnerables
+1130000;Pescado;Noviembre;0,001266691;Vulnerables
+1130000;Pescado;Diciembre;-0,000655738;Vulnerables
+1140000;Leche, Queso Y Huevos;Febrero;0,114921;Vulnerables
+1140000;Leche, Queso Y Huevos;Marzo;0,018809633;Vulnerables
+1140000;Leche, Queso Y Huevos;Abril;0,033940497;Vulnerables
+1140000;Leche, Queso Y Huevos;Mayo;0,016038299;Vulnerables
+1140000;Leche, Queso Y Huevos;Junio;-0,001520265;Vulnerables
+1140000;Leche, Queso Y Huevos;Julio;-0,00684426;Vulnerables
+1140000;Leche, Queso Y Huevos;Agosto;0,009334645;Vulnerables
+1140000;Leche, Queso Y Huevos;Septiembre;-0,005699395;Vulnerables
+1140000;Leche, Queso Y Huevos;Octubre;-0,003805995;Vulnerables
+1140000;Leche, Queso Y Huevos;Noviembre;-0,007239519;Vulnerables
+1140000;Leche, Queso Y Huevos;Diciembre;0,009355148;Vulnerables
+1150000;Aceites Y Grasas;Febrero;0,005625;Vulnerables
+1150000;Aceites Y Grasas;Marzo;0,000208148;Vulnerables
+1150000;Aceites Y Grasas;Abril;0,005327118;Vulnerables
+1150000;Aceites Y Grasas;Mayo;0,007521076;Vulnerables
+1150000;Aceites Y Grasas;Junio;0,001677486;Vulnerables
+1150000;Aceites Y Grasas;Julio;0,003878184;Vulnerables
+1150000;Aceites Y Grasas;Agosto;0,005360914;Vulnerables
+1150000;Aceites Y Grasas;Septiembre;0,00237916;Vulnerables
+1150000;Aceites Y Grasas;Octubre;0,00044217;Vulnerables
+1150000;Aceites Y Grasas;Noviembre;0,000883818;Vulnerables
+1150000;Aceites Y Grasas;Diciembre;0;Vulnerables
+1160000;Frutas;Febrero;0,011449;Vulnerables
+1160000;Frutas;Marzo;0,009046005;Vulnerables
+1160000;Frutas;Abril;0,018213541;Vulnerables
+1160000;Frutas;Mayo;-0,007073936;Vulnerables
+1160000;Frutas;Junio;-0,0093745;Vulnerables
+1160000;Frutas;Julio;0,038420516;Vulnerables
+1160000;Frutas;Agosto;0,039722291;Vulnerables
+1160000;Frutas;Septiembre;0,022853301;Vulnerables
+1160000;Frutas;Octubre;-0,003273438;Vulnerables
+1160000;Frutas;Noviembre;-0,041022763;Vulnerables
+1160000;Frutas;Diciembre;-0,030815931;Vulnerables
+1170000;Legumbres;Febrero;0,087616;Vulnerables
+1170000;Legumbres;Marzo;0,021592901;Vulnerables
+1170000;Legumbres;Abril;0,094864617;Vulnerables
+1170000;Legumbres;Mayo;0,051772099;Vulnerables
+1170000;Legumbres;Junio;-0,060327329;Vulnerables
+1170000;Legumbres;Julio;0,065003678;Vulnerables
+1170000;Legumbres;Agosto;-0,012630064;Vulnerables
+1170000;Legumbres;Septiembre;-0,016351903;Vulnerables
+1170000;Legumbres;Octubre;-0,086977469;Vulnerables
+1170000;Legumbres;Noviembre;-0,07868635;Vulnerables
+1170000;Legumbres;Diciembre;0,047655366;Vulnerables
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Febrero;0,009025;Vulnerables
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Marzo;0,006400531;Vulnerables
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Abril;0,008159878;Vulnerables
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Mayo;0,012408568;Vulnerables
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Junio;0,012395565;Vulnerables
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Julio;0,006045411;Vulnerables
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Agosto;0,002787333;Vulnerables
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Septiembre;-0,00153334;Vulnerables
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Octubre;0,000431949;Vulnerables
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Noviembre;-0,002542544;Vulnerables
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Diciembre;-0,003896203;Vulnerables
+1190000;Productos Alimenticios No Incluidos Anteriormente;Febrero;0,003844;Vulnerables
+1190000;Productos Alimenticios No Incluidos Anteriormente;Marzo;0,006717881;Vulnerables
+1190000;Productos Alimenticios No Incluidos Anteriormente;Abril;0,000668103;Vulnerables
+1190000;Productos Alimenticios No Incluidos Anteriormente;Mayo;0,006392839;Vulnerables
+1190000;Productos Alimenticios No Incluidos Anteriormente;Junio;0,00441541;Vulnerables
+1190000;Productos Alimenticios No Incluidos Anteriormente;Julio;0,006904232;Vulnerables
+1190000;Productos Alimenticios No Incluidos Anteriormente;Agosto;-0,007101322;Vulnerables
+1190000;Productos Alimenticios No Incluidos Anteriormente;Septiembre;0,003902629;Vulnerables
+1190000;Productos Alimenticios No Incluidos Anteriormente;Octubre;-0,002848602;Vulnerables
+1190000;Productos Alimenticios No Incluidos Anteriormente;Noviembre;-0,001965299;Vulnerables
+1190000;Productos Alimenticios No Incluidos Anteriormente;Diciembre;-0,001245188;Vulnerables
+1210000;Café, Té Y Cacao;Febrero;0,0025;Vulnerables
+1210000;Café, Té Y Cacao;Marzo;0,018483722;Vulnerables
+1210000;Café, Té Y Cacao;Abril;0,017785394;Vulnerables
+1210000;Café, Té Y Cacao;Mayo;0,015919206;Vulnerables
+1210000;Café, Té Y Cacao;Junio;0,015151515;Vulnerables
+1210000;Café, Té Y Cacao;Julio;0,017156863;Vulnerables
+1210000;Café, Té Y Cacao;Agosto;0,008804096;Vulnerables
+1210000;Café, Té Y Cacao;Septiembre;0,004691324;Vulnerables
+1210000;Café, Té Y Cacao;Octubre;0,00377206;Vulnerables
+1210000;Café, Té Y Cacao;Noviembre;0,002239604;Vulnerables
+1210000;Café, Té Y Cacao;Diciembre;0,000332779;Vulnerables
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Febrero;0,013689;Vulnerables
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Marzo;0,012367584;Vulnerables
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Abril;0,00526375;Vulnerables
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Mayo;0,005240175;Vulnerables
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Junio;0,004108238;Vulnerables
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Julio;-0,004223827;Vulnerables
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Agosto;0,005869565;Vulnerables
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Septiembre;-0,001557404;Vulnerables
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Octubre;-0,000259913;Vulnerables
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Noviembre;0,004874458;Vulnerables
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Diciembre;0,003171433;Vulnerables
+1110000;Pan Y Cereales;Febrero;0,005827996;Clase media
+1110000;Pan Y Cereales;Marzo;0,000447244;Clase media
+1110000;Pan Y Cereales;Abril;0,004024457;Clase media
+1110000;Pan Y Cereales;Mayo;0,003422619;Clase media
+1110000;Pan Y Cereales;Junio;-0,003120641;Clase media
+1110000;Pan Y Cereales;Julio;-0,006546824;Clase media
+1110000;Pan Y Cereales;Agosto;-0,006116795;Clase media
+1110000;Pan Y Cereales;Septiembre;-0,005234723;Clase media
+1110000;Pan Y Cereales;Octubre;-0,005245932;Clase media
+1110000;Pan Y Cereales;Noviembre;-0,016372387;Clase media
+1110000;Pan Y Cereales;Diciembre;-0,008770522;Clase media
+1120000;Carnes;Febrero;0,033151489;Clase media
+1120000;Carnes;Marzo;0,028640222;Clase media
+1120000;Carnes;Abril;0,016695497;Clase media
+1120000;Carnes;Mayo;0,003279483;Clase media
+1120000;Carnes;Junio;0,008192531;Clase media
+1120000;Carnes;Julio;0,006775337;Clase media
+1120000;Carnes;Agosto;0,017261905;Clase media
+1120000;Carnes;Septiembre;0,01765837;Clase media
+1120000;Carnes;Octubre;0,021058091;Clase media
+1120000;Carnes;Noviembre;0,022338398;Clase media
+1120000;Carnes;Diciembre;0,011684926;Clase media
+1130000;Pescado;Febrero;0,00270805;Clase media
+1130000;Pescado;Marzo;0,005244045;Clase media
+1130000;Pescado;Abril;0,00486912;Clase media
+1130000;Pescado;Mayo;0,002977848;Clase media
+1130000;Pescado;Junio;-0,000144543;Clase media
+1130000;Pescado;Julio;-0,000831325;Clase media
+1130000;Pescado;Agosto;0,000398142;Clase media
+1130000;Pescado;Septiembre;0,001374488;Clase media
+1130000;Pescado;Octubre;0;Clase media
+1130000;Pescado;Noviembre;0,000974377;Clase media
+1130000;Pescado;Diciembre;-0,000504414;Clase media
+1140000;Leche, Queso Y Huevos;Febrero;0,00365183;Clase media
+1140000;Leche, Queso Y Huevos;Marzo;0,014148839;Clase media
+1140000;Leche, Queso Y Huevos;Abril;0,025530462;Clase media
+1140000;Leche, Queso Y Huevos;Mayo;0,012064207;Clase media
+1140000;Leche, Queso Y Huevos;Junio;-0,001143562;Clase media
+1140000;Leche, Queso Y Huevos;Julio;-0,005148337;Clase media
+1140000;Leche, Queso Y Huevos;Agosto;0,007021635;Clase media
+1140000;Leche, Queso Y Huevos;Septiembre;-0,004287155;Clase media
+1140000;Leche, Queso Y Huevos;Octubre;-0,002862917;Clase media
+1140000;Leche, Queso Y Huevos;Noviembre;-0,005445656;Clase media
+1140000;Leche, Queso Y Huevos;Diciembre;0,007037058;Clase media
+1150000;Aceites Y Grasas;Febrero;0,002127695;Clase media
+1150000;Aceites Y Grasas;Marzo;0,000158193;Clase media
+1150000;Aceites Y Grasas;Abril;0,00404861;Clase media
+1150000;Aceites Y Grasas;Mayo;0,005716017;Clase media
+1150000;Aceites Y Grasas;Junio;0,00127489;Clase media
+1150000;Aceites Y Grasas;Julio;0,00294742;Clase media
+1150000;Aceites Y Grasas;Agosto;0,004074295;Clase media
+1150000;Aceites Y Grasas;Septiembre;0,001808162;Clase media
+1150000;Aceites Y Grasas;Octubre;0,000336049;Clase media
+1150000;Aceites Y Grasas;Noviembre;0,000671702;Clase media
+1150000;Aceites Y Grasas;Diciembre;0;Clase media
+1160000;Frutas;Febrero;0,012283109;Clase media
+1160000;Frutas;Marzo;0,008792378;Clase media
+1160000;Frutas;Abril;0,017702881;Clase media
+1160000;Frutas;Mayo;-0,006875601;Clase media
+1160000;Frutas;Junio;-0,009111663;Clase media
+1160000;Frutas;Julio;0,037343305;Clase media
+1160000;Frutas;Agosto;0,038608582;Clase media
+1160000;Frutas;Septiembre;0,022212554;Clase media
+1160000;Frutas;Octubre;-0,00318166;Clase media
+1160000;Frutas;Noviembre;-0,039872592;Clase media
+1160000;Frutas;Diciembre;-0,029951933;Clase media
+1170000;Legumbres;Febrero;-0,019651438;Clase media
+1170000;Legumbres;Marzo;0,013787359;Clase media
+1170000;Legumbres;Abril;0,06057234;Clase media
+1170000;Legumbres;Mayo;0,033057185;Clase media
+1170000;Legumbres;Junio;-0,038519815;Clase media
+1170000;Legumbres;Julio;0,041505727;Clase media
+1170000;Legumbres;Agosto;-0,008064466;Clase media
+1170000;Legumbres;Septiembre;-0,010440911;Clase media
+1170000;Legumbres;Octubre;-0,055536289;Clase media
+1170000;Legumbres;Noviembre;-0,050242298;Clase media
+1170000;Legumbres;Diciembre;0,030428595;Clase media
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Febrero;0,008570737;Clase media
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Marzo;0,004244562;Clase media
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Abril;0,005411287;Clase media
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Mayo;0,00822884;Clase media
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Junio;0,008220217;Clase media
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Julio;0,004009062;Clase media
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Agosto;0,001848442;Clase media
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Septiembre;-0,001016847;Clase media
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Octubre;0,00028645;Clase media
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Noviembre;-0,001686108;Clase media
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Diciembre;-0,002583797;Clase media
+1190000;Productos Alimenticios No Incluidos Anteriormente;Febrero;0,001295626;Clase media
+1190000;Productos Alimenticios No Incluidos Anteriormente;Marzo;0,005309293;Clase media
+1190000;Productos Alimenticios No Incluidos Anteriormente;Abril;0,000528017;Clase media
+1190000;Productos Alimenticios No Incluidos Anteriormente;Mayo;0,005052405;Clase media
+1190000;Productos Alimenticios No Incluidos Anteriormente;Junio;0,003489598;Clase media
+1190000;Productos Alimenticios No Incluidos Anteriormente;Julio;0,00545657;Clase media
+1190000;Productos Alimenticios No Incluidos Anteriormente;Agosto;-0,005612335;Clase media
+1190000;Productos Alimenticios No Incluidos Anteriormente;Septiembre;0,003084336;Clase media
+1190000;Productos Alimenticios No Incluidos Anteriormente;Octubre;-0,002251315;Clase media
+1190000;Productos Alimenticios No Incluidos Anteriormente;Noviembre;-0,00155322;Clase media
+1190000;Productos Alimenticios No Incluidos Anteriormente;Diciembre;-0,0009841;Clase media
+1210000;Café, Té Y Cacao;Febrero;0,014442054;Clase media
+1210000;Café, Té Y Cacao;Marzo;0,016265675;Clase media
+1210000;Café, Té Y Cacao;Abril;0,015651146;Clase media
+1210000;Café, Té Y Cacao;Mayo;0,014008901;Clase media
+1210000;Café, Té Y Cacao;Junio;0,013333333;Clase media
+1210000;Café, Té Y Cacao;Julio;0,015098039;Clase media
+1210000;Café, Té Y Cacao;Agosto;0,007747604;Clase media
+1210000;Café, Té Y Cacao;Septiembre;0,004128366;Clase media
+1210000;Café, Té Y Cacao;Octubre;0,003319413;Clase media
+1210000;Café, Té Y Cacao;Noviembre;0,001970852;Clase media
+1210000;Café, Té Y Cacao;Diciembre;0,000292845;Clase media
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Febrero;0,012449922;Clase media
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Marzo;0,008350762;Clase media
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Abril;0,003554156;Clase media
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Mayo;0,003538238;Clase media
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Junio;0,002773938;Clase media
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Julio;-0,002851986;Clase media
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Agosto;0,003963211;Clase media
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Septiembre;-0,001051581;Clase media
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Octubre;-0,000175497;Clase media
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Noviembre;0,003291301;Clase media
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Diciembre;0,002141395;Clase media
+1110000;Pan Y Cereales;Febrero;0,002545288;Ingresos altos
+1110000;Pan Y Cereales;Marzo;0,000195327;Ingresos altos
+1110000;Pan Y Cereales;Abril;0,00175762;Ingresos altos
+1110000;Pan Y Cereales;Mayo;0,001494776;Ingresos altos
+1110000;Pan Y Cereales;Junio;-0,001362892;Ingresos altos
+1110000;Pan Y Cereales;Julio;-0,002859225;Ingresos altos
+1110000;Pan Y Cereales;Agosto;-0,002671416;Ingresos altos
+1110000;Pan Y Cereales;Septiembre;-0,002286185;Ingresos altos
+1110000;Pan Y Cereales;Octubre;-0,00229108;Ingresos altos
+1110000;Pan Y Cereales;Noviembre;-0,007150389;Ingresos altos
+1110000;Pan Y Cereales;Diciembre;-0,003830391;Ingresos altos
+1120000;Carnes;Febrero;0,01432754;Ingresos altos
+1120000;Carnes;Marzo;0,012377843;Ingresos altos
+1120000;Carnes;Abril;0,007215525;Ingresos altos
+1120000;Carnes;Mayo;0,00141734;Ingresos altos
+1120000;Carnes;Junio;0,00354068;Ingresos altos
+1120000;Carnes;Julio;0,002928192;Ingresos altos
+1120000;Carnes;Agosto;0,007460317;Ingresos altos
+1120000;Carnes;Septiembre;0,007631663;Ingresos altos
+1120000;Carnes;Octubre;0,009100968;Ingresos altos
+1120000;Carnes;Noviembre;0,009654296;Ingresos altos
+1120000;Carnes;Diciembre;0,005050037;Ingresos altos
+1130000;Pescado;Febrero;0,002076172;Ingresos altos
+1130000;Pescado;Marzo;0,004020435;Ingresos altos
+1130000;Pescado;Abril;0,003732992;Ingresos altos
+1130000;Pescado;Mayo;0,002283017;Ingresos altos
+1130000;Pescado;Junio;-0,000110817;Ingresos altos
+1130000;Pescado;Julio;-0,000637349;Ingresos altos
+1130000;Pescado;Agosto;0,000305242;Ingresos altos
+1130000;Pescado;Septiembre;0,001053774;Ingresos altos
+1130000;Pescado;Octubre;0;Ingresos altos
+1130000;Pescado;Noviembre;0,000747023;Ingresos altos
+1130000;Pescado;Diciembre;-0,000386717;Ingresos altos
+1140000;Leche, Queso Y Huevos;Febrero;0,001947643;Ingresos altos
+1140000;Leche, Queso Y Huevos;Marzo;0,007546047;Ingresos altos
+1140000;Leche, Queso Y Huevos;Abril;0,013616247;Ingresos altos
+1140000;Leche, Queso Y Huevos;Mayo;0,006434244;Ingresos altos
+1140000;Leche, Queso Y Huevos;Junio;-0,0006099;Ingresos altos
+1140000;Leche, Queso Y Huevos;Julio;-0,00274578;Ingresos altos
+1140000;Leche, Queso Y Huevos;Agosto;0,003744872;Ingresos altos
+1140000;Leche, Queso Y Huevos;Septiembre;-0,002286483;Ingresos altos
+1140000;Leche, Queso Y Huevos;Octubre;-0,001526889;Ingresos altos
+1140000;Leche, Queso Y Huevos;Noviembre;-0,00290435;Ingresos altos
+1140000;Leche, Queso Y Huevos;Diciembre;0,003753098;Ingresos altos
+1150000;Aceites Y Grasas;Febrero;0,00111984;Ingresos altos
+1150000;Aceites Y Grasas;Marzo;8,32593E-05;Ingresos altos
+1150000;Aceites Y Grasas;Abril;0,002130847;Ingresos altos
+1150000;Aceites Y Grasas;Mayo;0,00300843;Ingresos altos
+1150000;Aceites Y Grasas;Junio;0,000670994;Ingresos altos
+1150000;Aceites Y Grasas;Julio;0,001551274;Ingresos altos
+1150000;Aceites Y Grasas;Agosto;0,002144366;Ingresos altos
+1150000;Aceites Y Grasas;Septiembre;0,000951664;Ingresos altos
+1150000;Aceites Y Grasas;Octubre;0,000176868;Ingresos altos
+1150000;Aceites Y Grasas;Noviembre;0,000353527;Ingresos altos
+1150000;Aceites Y Grasas;Diciembre;0;Ingresos altos
+1160000;Frutas;Febrero;0,01074772;Ingresos altos
+1160000;Frutas;Marzo;0,007693331;Ingresos altos
+1160000;Frutas;Abril;0,015490021;Ingresos altos
+1160000;Frutas;Mayo;-0,006016151;Ingresos altos
+1160000;Frutas;Junio;-0,007972705;Ingresos altos
+1160000;Frutas;Julio;0,032675392;Ingresos altos
+1160000;Frutas;Agosto;0,033782509;Ingresos altos
+1160000;Frutas;Septiembre;0,019435985;Ingresos altos
+1160000;Frutas;Octubre;-0,002783952;Ingresos altos
+1160000;Frutas;Noviembre;-0,034888518;Ingresos altos
+1160000;Frutas;Diciembre;-0,026207941;Ingresos altos
+1170000;Legumbres;Febrero;-0,008837948;Ingresos altos
+1170000;Legumbres;Marzo;0,006200664;Ingresos altos
+1170000;Legumbres;Abril;0,027241528;Ingresos altos
+1170000;Legumbres;Mayo;0,014866988;Ingresos altos
+1170000;Legumbres;Junio;-0,017323726;Ingresos altos
+1170000;Legumbres;Julio;0,018666597;Ingresos altos
+1170000;Legumbres;Agosto;-0,003626876;Ingresos altos
+1170000;Legumbres;Septiembre;-0,004695648;Ingresos altos
+1170000;Legumbres;Octubre;-0,024976638;Ingresos altos
+1170000;Legumbres;Noviembre;-0,022595742;Ingresos altos
+1170000;Legumbres;Diciembre;0,013684818;Ingresos altos
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Febrero;0,00394526;Ingresos altos
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Marzo;0,001953846;Ingresos altos
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Abril;0,00249091;Ingresos altos
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Mayo;0,003787879;Ingresos altos
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Junio;0,003783909;Ingresos altos
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Julio;0,001845441;Ingresos altos
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Agosto;0,00085087;Ingresos altos
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Septiembre;-0,000468072;Ingresos altos
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Octubre;0,000131858;Ingresos altos
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Noviembre;-0,000776145;Ingresos altos
+1180000;Azúcar, Mermelada, Miel, Chocolate Y Dulces De Azúcar;Diciembre;-0,001189367;Ingresos altos
+1190000;Productos Alimenticios No Incluidos Anteriormente;Febrero;0,001084095;Ingresos altos
+1190000;Productos Alimenticios No Incluidos Anteriormente;Marzo;0,00444247;Ingresos altos
+1190000;Productos Alimenticios No Incluidos Anteriormente;Abril;0,00044181;Ingresos altos
+1190000;Productos Alimenticios No Incluidos Anteriormente;Mayo;0,004227523;Ingresos altos
+1190000;Productos Alimenticios No Incluidos Anteriormente;Junio;0,002919868;Ingresos altos
+1190000;Productos Alimenticios No Incluidos Anteriormente;Julio;0,004565702;Ingresos altos
+1190000;Productos Alimenticios No Incluidos Anteriormente;Agosto;-0,004696035;Ingresos altos
+1190000;Productos Alimenticios No Incluidos Anteriormente;Septiembre;0,002580771;Ingresos altos
+1190000;Productos Alimenticios No Incluidos Anteriormente;Octubre;-0,001883753;Ingresos altos
+1190000;Productos Alimenticios No Incluidos Anteriormente;Noviembre;-0,001299633;Ingresos altos
+1190000;Productos Alimenticios No Incluidos Anteriormente;Diciembre;-0,000823431;Ingresos altos
+1210000;Café, Té Y Cacao;Febrero;0,008533941;Ingresos altos
+1210000;Café, Té Y Cacao;Marzo;0,009611535;Ingresos altos
+1210000;Café, Té Y Cacao;Abril;0,009248405;Ingresos altos
+1210000;Café, Té Y Cacao;Mayo;0,008277987;Ingresos altos
+1210000;Café, Té Y Cacao;Junio;0,007878788;Ingresos altos
+1210000;Café, Té Y Cacao;Julio;0,008921569;Ingresos altos
+1210000;Café, Té Y Cacao;Agosto;0,00457813;Ingresos altos
+1210000;Café, Té Y Cacao;Septiembre;0,002439489;Ingresos altos
+1210000;Café, Té Y Cacao;Octubre;0,001961471;Ingresos altos
+1210000;Café, Té Y Cacao;Noviembre;0,001164594;Ingresos altos
+1210000;Café, Té Y Cacao;Diciembre;0,000173045;Ingresos altos
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Febrero;0,00598857;Ingresos altos
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Marzo;0,004016822;Ingresos altos
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Abril;0,001709594;Ingresos altos
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Mayo;0,001701937;Ingresos altos
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Junio;0,001334299;Ingresos altos
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Julio;-0,001371841;Ingresos altos
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Agosto;0,001906355;Ingresos altos
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Septiembre;-0,000505824;Ingresos altos
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Octubre;-8,44163E-05;Ingresos altos
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Noviembre;0,001583157;Ingresos altos
+1220000;Aguas Minerales, Refrescos, Jugos De Frutas Y De Legumbres;Diciembre;0,001030038;Ingresos altos
