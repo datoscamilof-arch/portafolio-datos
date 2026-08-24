@@ -68,6 +68,6 @@ Mirar solo el promedio de inflación oculta quién asume realmente el costo. Las
 
 ## Próximos Pasos
 
-- Documentar o reconstruir el script/proceso de unificación de los anexos mensuales del DANE para dejar el pipeline completo reproducible.
+
 - Ampliar el análisis a 2024 para evaluar si el patrón de carga regresiva se mantiene entre años.
-- Explorar el cruce completo producto × mes × grupo de ingreso para identificar qué producto explica cada pico individual en cada grupo (más allá de Vulnerables y febrero).
+
