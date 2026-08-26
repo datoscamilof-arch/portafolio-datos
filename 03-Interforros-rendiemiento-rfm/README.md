@@ -6,7 +6,7 @@ Este proyecto aplica técnicas de análisis de datos y modelado RFM (Recencia, F
 
 ## Pregunta de Negocio
 
-* ¿Qué categorías de productos y canales de venta impulsan la mayor rentabilidad del negocio?
+* ¿Qué categorías de productos y canales de venta generan la mayor facturación y dónde existen oportunidades para mejorar el desempeño comercial?
 * ¿Cómo se distribuye la cartera de clientes según su comportamiento histórico de compra, lealtad y riesgo de abandono?
 * ¿Qué acciones estratégicas inmediatas deben implementarse para maximizar la retención y proteger el capital estancado?
 
