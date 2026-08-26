@@ -46,13 +46,17 @@ Diseñada para el equipo comercial y estratégico. Analiza la composición de lo
 ## Principales Hallazgos
 
 * Dominio de categoría: Los Forros de Asiento son el motor financiero indiscutible del negocio, concentrando el 64,57% de los ingresos totales ($108 millones).
-* Dependencia del canal físico: La tienda física representa el 61,6% de la facturación, evidenciando un rezago en la adopción de canales digitales (Web concentra apenas el 10,19%).
-* Capital crítico en riesgo: El 24% del ingreso ($40,4 millones) depende de clientes clasificados analíticamente como "En Riesgo".
+* Dependencia del canal físico: La tienda física concentra el 61,6% de la facturación, mientras que la Web representa el 10,19%. Esta concentración sugiere una oportunidad para evaluar estrategias de crecimiento digital y diversificación de canales.
+* Ingresos históricos expuestos: Los clientes clasificados como "En Riesgo" generaron históricamente $40,4 millones, equivalentes al 24% de los ingresos analizados. Esto representa una oportunidad prioritaria de retención debido al valor económico asociado a este grupo
 * Fuga de clientes: Los segmentos "Perdidos" y "En Riesgo" suman en conjunto el 49% de la base de clientes (147 de 298), confirmando que el reto principal del negocio es la retención, dado que el ticket promedio no muestra variaciones drásticas entre grupos.
 * Estacionalidad operativa: Se identificó una caída crítica de demanda en el mes de abril, seguida inmediatamente por un pico histórico de ventas en mayo ($17 millones).
 
 ## Próximos Pasos
 
-* Ejecutar una campaña de reactivación urgente y selectiva enfocada exclusivamente en los 72 clientes del segmento "En Riesgo" para proteger los $40,4 millones comprometidos.
-* Diseñar estrategias de incentivo (descuentos cruzados o envíos gratuitos) para traccionar el volumen de la tienda física hacia los canales Web y WhatsApp.
-* Ajustar la planeación de inventarios preventivos en el primer trimestre para mitigar el impacto del valle de abril y soportar el pico transaccional de mayo.
+* Ejecutar una campaña de reactivación prioritaria: Enfocar los esfuerzos inicialmente en los 72 clientes clasificados como "En Riesgo", priorizando aquellos con mayor valor monetario histórico y frecuencia de compra, con el objetivo de recuperar clientes estratégicos.
+* Diseñar estrategias de recuperación selectiva para clientes perdidos: Implementar acciones de bajo costo para reactivar clientes del segmento "Perdidos", priorizando aquellos que históricamente hayan generado mayores ingresos.
+* Impulsar el crecimiento incremental de los canales digitales: Diseñar estrategias de incentivo, como descuentos cruzados, campañas de recompra o beneficios de envío, enfocadas en atraer nuevos clientes y aumentar la recurrencia mediante Web y WhatsApp.
+* Fortalecer las oportunidades de venta cruzada: Aprovechar la alta concentración de ingresos en la categoría de Forros de Asiento para identificar productos complementarios que puedan incrementar el valor de cada compra y reducir la dependencia comercial de una única categoría.
+* Monitorear el comportamiento temporal de la demanda: Dar seguimiento a la caída observada en abril y al incremento de ventas registrado en mayo durante períodos posteriores, con el fin de determinar si este comportamiento corresponde a un patrón estacional antes de incorporarlo formalmente en la planificación de inventarios.
+* Diseñar estrategias de incentivo (descuentos cruzados o envíos gratuitos) para aumentar el volumen de los canales Web y WhatsApp.
+*En el período analizado se observa una caída en abril seguida de un incremento significativo en mayo. Este comportamiento debe monitorearse en períodos futuros antes de incorporarlo como patrón estacional.
